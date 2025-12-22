@@ -10,7 +10,7 @@ A Repo to store the Releases for **SOZ-LIVE**.
 
 ## Documentation
 
-- Please refer to the [Project Documentation](docs/README.md).
+- For Project Documentation, refer to the soz-live [website](https://www.soz-live.com).
 
 ## Code of Conduct
 
