@@ -1,8 +1,13 @@
+<a href="https://www.soz-live.com" target="_blank">
+<img src="/assets/soz-live-logo.png" width="100%">
+</a>
+
 # SOZ-RELEASES
 
 
-A Repo to store the Releases for **SOZ-LIVE**.
+## Introduction
 
+This is a Repo to store the Releases for the **SOZ-LIVE** project.
 
 ## Status
 
@@ -10,7 +15,7 @@ A Repo to store the Releases for **SOZ-LIVE**.
 
 ## Documentation
 
-- For Project Documentation, refer to the soz-live [website](https://www.soz-live.com).
+- For Project Documentation, refer to the [soz-live website](https://www.soz-live.com).
 
 ## Code of Conduct
 
@@ -23,3 +28,8 @@ A Repo to store the Releases for **SOZ-LIVE**.
 ## License
 
 - When released, this project will use the [MIT License](LICENSE.md)
+
+## Security
+
+- For Security Information, refer to the [security page](https://www.soz-live.com//security.html) on the website.
+
