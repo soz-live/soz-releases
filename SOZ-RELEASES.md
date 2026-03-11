@@ -1,4 +1,4 @@
 ## soz-releases
 
-- Version: 1.27.9
-- Date: 20260310.1603
+- Version: 1.27.10
+- Date: 20260311.1901
