@@ -6,7 +6,9 @@
 
 **SOZ-LIVE** is a  CAD extension, written in Lisp.  
 
-**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a uniform approach to drafting, modelling and coding within CAD packages such as BricsCAD and AutoCAD.
+**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a systematic approach to drafting, modelling and coding within CAD packages such as BricsCAD&reg; or AutoCAD&reg;.
+
+Note that SOZ-LIVE is not affiliated with BricsCAD&reg; or AutoCAD&reg;.
 
 This Repo stores the Releases for the **SOZ-LIVE** project.
 
@@ -33,4 +35,3 @@ When released, this project will use the [MIT License](LICENSE.md)
 ## Security
 
 For Security Information, refer to the [security page](https://www.soz-live.com//security.html) on the website.
-
