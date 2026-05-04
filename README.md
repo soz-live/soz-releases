@@ -18,7 +18,7 @@ Currently the project is in **Private Beta**.
 
 ## Documentation
 
-For Project Documentation, refer to the [soz-live website](https://www.soz-live.com).
+For Project Documentation, refer to the **SOZ-LIVE** [website](https://www.soz-live.com).
 
 ## Code of Conduct
 
@@ -34,4 +34,4 @@ When released, this project will use the [MIT License](LICENSE.md)
 
 ## Security
 
-For Security Information, refer to the [security page](https://www.soz-live.com//security.html) on the website.
+For Security Information, refer to the [security](https://www.soz-live.com//security.html) page on the website.
