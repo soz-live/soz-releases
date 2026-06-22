@@ -8,7 +8,6 @@ The community looks forward to your contributions.
 
 > And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
 > - Star the project
-> - Tweet about it
 > - Mention the project and tell your friends/colleagues
 
 ## Contents
