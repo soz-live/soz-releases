@@ -14,7 +14,7 @@ This Repo stores the Releases for the **SOZ-LIVE** project.
 
 ## Status
 
-Currently the project is in **Private Beta**.
+The current status of the project is now **Public Beta**.
 
 ## Documentation
 
