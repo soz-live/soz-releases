@@ -30,8 +30,12 @@ Please read the [Contributing Guide](CONTRIBUTING.md) for the Project.
 
 ## License
 
-When released, this project will use the [MIT License](LICENSE.md)
+This project uses the [MIT License](LICENSE.md)
 
 ## Security
 
 For Security Information, refer to the [security](https://www.soz-live.com//security.html) page on the website.
+
+## Downloads
+
+Follow the link to the [Releases](https://github.com/soz-live/soz-releases/releases) page.
