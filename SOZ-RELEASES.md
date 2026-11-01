@@ -1,4 +1,4 @@
 ## soz-releases
 
-- Version: 2.0.0.BETA.1
-- Date: 20260701.204
+- Version: 2.0.0.BETA.2
+- Date: 20261101.1906
